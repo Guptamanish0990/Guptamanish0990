@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Manish Gupta</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN | Next.js | Django | AWS</h3>
+<h3 align="center">🚀 Web Developer | React.js | Next.js | WordPress </h3>
 
 <p align="center">
   <img src="https://github.com/Guptamanish0990.png" width="150" style="border-radius:50%" alt="Manish Gupta Avatar" />
@@ -10,10 +10,10 @@
 ### 🌟 About Me
 I'm a passionate **Full-Stack Developer** who loves building scalable web applications and solving complex problems through clean, efficient code.
 
-- 💼 I specialize in **React, Next.js, Node.js, and Django**
-- ⚙️ Backend: Node.js, Express, Django, REST APIs
-- 🧠 Frontend: React, Next.js, Tailwind CSS, TypeScript
-- ☁️ Cloud: AWS, Vercel, Render
+- 💼 I specialize in **React, Next.js, Node.js, and WordPress **
+- ⚙️ Backend: Node.js, 
+- 🧠 Frontend: React, Next.js, Tailwind CSS, TypeScript, WordPress.
+- ☁️ Cloud: AWS, Vercel, Render, Github.io, Netlify. 
 - 🗄 Databases: MongoDB, PostgreSQL
 - 🔭 Currently exploring: **AI integrations and Serverless apps**
 - 🎯 Goal: Building modern, reliable, and fast web applications
