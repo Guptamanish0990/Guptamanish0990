@@ -44,7 +44,7 @@ I'm a passionate **Full-Stack Developer** who loves building scalable web applic
 #### 🛍 LuxStore — Modern E-Commerce Platform
 > **Stack:** Next.js, Tailwind, MongoDB, Node.js  
 > A fully responsive e-commerce platform with dynamic product filters, cart, wishlist, and admin dashboard.  
-> 🔗 [View Repository]((https://github.com/Guptamanish0990/LaxStore)) | 🌐 [Live Demo]((https://lax-store.vercel.app/))
+> 🔗 [View Repository](https://lax-store.vercel.app/))
 
 #### Street Vada Pav – Live Food Ordering App
 > A full SPA (Single Page Application) built with React and hosted on Netlify. It showcases a Mumbai street-food ordering experience with routing, cart management, wishlist, and responsive design.
