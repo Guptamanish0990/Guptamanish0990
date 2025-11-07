@@ -44,17 +44,17 @@ I'm a passionate **Full-Stack Developer** who loves building scalable web applic
 #### 🛍 LuxStore — Modern E-Commerce Platform
 > **Stack:** Next.js, Tailwind, MongoDB, Node.js  
 > A fully responsive e-commerce platform with dynamic product filters, cart, wishlist, and admin dashboard.  
-> 🔗 [View Repository](https://github.com/Guptamanish0990/luxstore) | 🌐 [Live Demo](https://luxstore.vercel.app)
+> 🔗 [View Repository]((https://github.com/Guptamanish0990/LaxStore)) | 🌐 [Live Demo]((https://lax-store.vercel.app/))
 
-#### 📊 HealthViz — Data Visualization Dashboard
-> **Stack:** Django, PostgreSQL, AWS EC2  
-> Real-time analytics and visualization of public health datasets with secure authentication and admin role management.  
-> 🔗 [View Repository](https://github.com/Guptamanish0990/healthviz)
+#### Street Vada Pav – Live Food Ordering App
+> A full SPA (Single Page Application) built with React and hosted on Netlify. It showcases a Mumbai street-food ordering experience with routing, cart management, wishlist, and responsive design.
+>  Ract.js, Tailwind,   Node.js
+> 🔗 [View Repository](https://street-vada-pav.netlify.app/))
 
 #### 💼 Portfolio Website
 > **Stack:** Next.js, Tailwind CSS  
 > My personal portfolio with smooth animations, dark mode, and responsive design.  
-> 🔗 [Live Demo](https://guptamanish0990.vercel.app)
+> 🔗 [Live Demo]((https://guptamanish0990.github.io/Manish_Gupta/#/))
 
 ---
 
