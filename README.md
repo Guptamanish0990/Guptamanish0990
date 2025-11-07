@@ -52,7 +52,7 @@ I'm a passionate **Full-Stack Developer** who loves building scalable web applic
 > 🔗 [View Repository](https://street-vada-pav.netlify.app/))
 
 #### 💼 Portfolio Website
-> **Stack:** Next.js, Tailwind CSS  
+> **Stack:** Ract.js, Tailwind CSS  
 > My personal portfolio with smooth animations, dark mode, and responsive design.  
 > 🔗 [Live Demo]((https://guptamanish0990.github.io/Manish_Gupta/#/))
 
