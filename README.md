@@ -52,6 +52,12 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable we
 
 ## 🚀 Featured Projects
 
+### 🐞 Debug Quest — Interactive Coding & Interview Prep Platform
+> **Tech Stack:** React.js 19, Tailwind CSS, Framer Motion, Socket.IO, Express  
+> A gamified learning platform for debugging challenges, interview preparation with 200+ questions, daily challenges, streak tracking, and comprehensive progress analytics. Features real-time collaboration, smooth animations, and a modern UI.
+> 
+> 🔗 **[Live Demo](https://debugquest.netlify.app/)** | **[GitHub Repository](https://github.com/Guptamanish0990/debugquest)**
+
 ### 🛍️ LuxStore — Modern E-Commerce Platform
 > **Tech Stack:** Next.js 14, Tailwind CSS, MongoDB, Node.js, Express  
 > A fully responsive e-commerce platform featuring dynamic product filters, shopping cart, wishlist functionality, and comprehensive admin dashboard with real-time analytics.
