@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Manish Gupta</h1>
-<h3 align="center">🚀 Full-Stack Developer | React.js | Next.js | WordPress Specialist</h3>
+<h3 align="center">🚀 Frontend Developer | React.js | WordPress Specialist</h3>
 
 <p align="center">
   <img src="https://github.com/Guptamanish0990.png" width="150" style="border-radius:50%" alt="Manish Gupta Avatar" />
@@ -15,66 +15,69 @@
 
 ## 🌟 About Me
 
-I'm a passionate **Full-Stack Developer** with expertise in building scalable web applications and solving complex problems through clean, efficient code. I thrive on creating seamless user experiences and robust backend systems.
+I'm a passionate **Frontend Developer** dedicated to turning ideas into innovative web applications. With 2+ years of experience and expertise in React.js, WordPress, and modern web development, I focus on creating seamless user experiences and robust frontend systems.
 
-### 💼 Technical Expertise
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, WordPress
-- **Backend:** Node.js, Express, Python, Django, FastAPI
-- **Databases:** MongoDB, PostgreSQL, MySQL
-- **Cloud & DevOps:** AWS, Vercel, Netlify, Render, Docker, GitHub Actions
-- **Tools:** Git, Figma, Postman, VS Code
-
-### 🎯 Current Focus
-- 🔭 Exploring **AI integrations and Serverless architectures**
-- 🌱 Learning **Advanced System Design and Microservices**
-- 💡 Building **modern, reliable, and high-performance web applications**
-
----
+- 🎯 **Experience**: 2+ years, 10+ live projects, 3 certifications
+- 💼 **Tech Focus**: React.js, Next.js, WordPress, WooCommerce, Tailwind CSS
+- 🌱 **Currently Learning**: Next.js, Django, MySQL
+- ⚡ **Fun Fact**: I believe in continuous learning and enjoy exploring new technologies
 
 ## 🛠 Tech Stack
 
-### 💻 Frontend Development
+### Core Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,wordpress" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,wordpress" />
 </p>
 
-### ⚙️ Backend Development
+### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,mysql,vercel,netlify" />
 </p>
 
-### 🗄️ Database & Cloud
+### Tools & Version Control
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,aws,vercel,netlify,docker,git" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🐞 Debug Quest — Interactive Coding & Interview Prep Platform
-> **Tech Stack:** React.js 19, Tailwind CSS, Framer Motion, Socket.IO, Express  
-> A gamified learning platform for debugging challenges, interview preparation with 200+ questions, daily challenges, streak tracking, and comprehensive progress analytics. Features real-time collaboration, smooth animations, and a modern UI.
+### 🛍️ LAX Store – E-commerce Web App
+> **Tech Stack:** React, Tailwind CSS, Vercel  
+> A modern e-commerce application with responsive design, product catalog, cart & wishlist flow, and fast Vercel deployment.
 > 
-> 🔗 **[Live Demo](https://debugquest.netlify.app/)** | **[GitHub Repository](https://github.com/Guptamanish0990/debugquest)**
+> 🔗 **[Live Demo](https://lax-store.vercel.app/)** | **[GitHub Repository](https://github.com/Guptamanish0990/LaxStore)**
 
-### 🛍️ LuxStore — Modern E-Commerce Platform
-> **Tech Stack:** Next.js 14, Tailwind CSS, MongoDB, Node.js, Express  
-> A fully responsive e-commerce platform featuring dynamic product filters, shopping cart, wishlist functionality, and comprehensive admin dashboard with real-time analytics.
+### 🍔 Street Vada Pav – Live Food Ordering App
+> **Tech Stack:** React, Netlify  
+> An interactive Mumbai street-food ordering platform featuring real-time menu browsing, cart and wishlist management, and a smooth responsive UI.
 > 
-> 🔗 **[Live Demo](https://lax-store.vercel.app/)** | **[GitHub Repository](https://github.com/Guptamanish0990/luxstore)**
+> 🔗 **[Live Demo](https://street-vada-pav.netlify.app/)**
 
-### 🍔 Street Vada Pav – Food Ordering SPA
-> **Tech Stack:** React.js, Tailwind CSS, Context API, Node.js  
-> A single page application replicating Mumbai street food ordering experience with cart management, wishlist, responsive design, and smooth animations.
+### 🎥 YouTube Clone – Full Video Streaming App
+> **Tech Stack:** Next.js, Tailwind CSS, YouTube API  
+> A YouTube-style video streaming platform with mobile UI, voice search, and real-time categories.
 > 
-> 🔗 **[Live Demo](https://street-vada-pav.netlify.app/)** | **[GitHub Repository](https://github.com/Guptamanish0990/street-vada-pav)**
+> 🔗 **[Live Demo](https://youtube-clone-six-rosy.vercel.app/)** | **[GitHub Repository](https://github.com/Guptamanish0990/youtube-clone)**
 
-### 💼 Personal Portfolio Website
-> **Tech Stack:** React.js, Tailwind CSS, Framer Motion  
-> A modern portfolio website featuring smooth animations, dark mode toggle, project showcase, and fully responsive design across all devices.
+### 🎨 Hair Salon Website (Demo Project)
+> **Tech Stack:** React, HTML5, CSS3  
+> Front-end demo recreation of the official Florian Hurel Hair Couture website.
 > 
-> 🔗 **[Live Demo](https://guptamanish0990.github.io/Manish_Gupta/#/)** | **[GitHub Repository](https://github.com/Guptamanish0990/Manish_Gupta)**
+> 🔗 **[Live Demo](https://guptamanish0990.github.io/hello-world-app/#/)**
+
+### 🧠 ML GUI – College Project
+> **Tech Stack:** Django, React, Firebase  
+> An end-to-end ML pipeline builder with GUI using Django and React.
+> 
+> 🔗 **[Live Demo](https://mlgui-e219d.web.app/)** | **[GitHub Repository](https://github.com/Guptamanish0990/ml-gui-project)**
+
+### 🏢 Business & Corporate Websites (Zencraft Projects)
+- **[Questor Wing](https://questorwing.com/)** – Business informational site
+- **[Jain & Co Chartered Accountants](https://jainandco.webperfecto.co/)** – Corporate site for tax & audit services
+- **[NsExecutions LLP](http://app-nsexecutionsllp.eln1vtent4-ypj68jvev3l2.p.temp-site.link/)** – Legal & financial consulting firm
+- **[Dental Doctor Website](http://app-denntaldoctor.u10431mxjg-xlm4180lx3dy.p.temp-site.link/)** – Dental clinic with appointment booking
 
 ---
 
@@ -89,6 +92,17 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable we
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guptamanish0990&layout=compact&theme=react&hide_border=true" />
   <img width="45%" src="https://github-profile-trophy.vercel.app/?username=Guptamanish0990&theme=react&no-bg=true&no-frame=true&margin-w=10&row=2&column=4" />
 </p>
+
+---
+
+## 🎓 Education
+
+| Year | Degree | Institution |
+|------|--------|-------------|
+| 2021 – 2023 | Master of Science in Information Technology | Patkar-Varde College, Mumbai |
+| 2018 – 2021 | Bachelor of Science in Information Technology | DTSS College of Commerce and Science, Mumbai |
+| 2017 – 2018 | HSC (Science) | DTSS College of Commerce and Science, Mumbai, Malad |
+| 2015 – 2016 | SSC | Shree Radha Krishna Vidya Mandir High School, Mumbai |
 
 ---
 
@@ -113,10 +127,10 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable we
 
 ## 🧩 Developer Philosophy
 
-> "I don't just write code — I **engineer experiences** that delight users and solve real-world problems through innovative digital solutions."
+> "I'm dedicated to turning ideas into innovative web applications, showcasing my expertise in React.js, WordPress, and modern web development."
 
 <p align="center">
-  <i>⚡ Passionate about clean code, scalable architecture, and user-centric design</i>
+  <i>⚡ Passionate about clean code, responsive design, and user-centric solutions</i>
 </p>
 
 ---
