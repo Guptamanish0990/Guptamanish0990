@@ -23,7 +23,7 @@
 
 ### 🌟 About Me
 
-```yaml
+\`\`\`yaml
 name: Manish Gupta
 role: Frontend Developer
 experience: 2+ years
@@ -32,7 +32,7 @@ certifications: 3
 tech_focus: [React.js, Next.js, WordPress, WooCommerce, Tailwind CSS]
 currently_learning: [Next.js, Django, MySQL]
 philosophy: "Turning ideas into innovative, user-centric web applications"
-```
+\`\`\`
 
 ---
 
