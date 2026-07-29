@@ -1,201 +1,163 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=220&section=header&text=Manish%20Gupta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20WordPress%20Specialist&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Manish%20Gupta&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Frontend%20Developer%20%E2%80%A2%20React.js%20%E2%80%A2%20WordPress%20Specialist&descAlignY=52&descSize=17" width="100%"/>
 
-<img src="https://github.com/Guptamanish0990.png" width="140" style="border-radius:50%;border:3px solid #1BFFFF" alt="Manish Gupta Avatar" />
+<img src="https://github.com/Guptamanish0990.png" width="130" style="border-radius:50%;border:3px solid #2C5364;margin-top:-10px" />
 
 <br/>
 
-<a href="https://guptamanish0990.github.io/Manish_Gupta/#/">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;React.js+%26+Next.js+Enthusiast;WordPress+%26+WooCommerce+Specialist;Always+Learning+Something+New;&font=Fira+Code&center=true&width=550&height=45&color=1BFFFF&vCenter=true&size=22" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer+building+for+the+web;React.js+%C2%B7+Next.js+%C2%B7+WordPress;Turning+ideas+into+products+users+love&font=Poppins&center=true&width=600&height=45&color=2C5364&vCenter=true&size=20" />
 
 <p>
-  <a href="https://github.com/Guptamanish0990?tab=repositories"><img src="https://img.shields.io/badge/Projects-%20?style=for-the-badge&logo=github&color=2E3192" alt="Projects" /></a>
-  <a href="https://guptamanish0990.github.io/Manish_Gupta/#/"><img src="https://img.shields.io/badge/Portfolio-%20?style=for-the-badge&logo=google-chrome&color=1BFFFF" alt="Portfolio" /></a>
-  <a href="mailto:websitedeveloper0990@gmail.com"><img src="https://img.shields.io/badge/Contact-%20?style=for-the-badge&logo=gmail&color=EA4335" alt="Contact" /></a>
-  <a href="https://www.linkedin.com/in/guptamanish0990"><img src="https://img.shields.io/badge/LinkedIn-%20?style=for-the-badge&logo=linkedin&color=0A66C2" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/Experience-2%2B_Years-2C5364?style=for-the-badge&labelColor=0F2027" />
+<img src="https://img.shields.io/badge/Live_Projects-10%2B-203A43?style=for-the-badge&labelColor=0F2027" />
+<img src="https://img.shields.io/badge/Certifications-3-2C5364?style=for-the-badge&labelColor=0F2027" />
+</p>
+
+<p>
+<a href="https://guptamanish0990.github.io/Manish_Gupta/#/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/guptamanish0990"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:websitedeveloper0990@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Guptamanish0990"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 </div>
 
----
-
-### 🌟 About Me
-
-\`\`\`yaml
-name: Manish Gupta
-role: Frontend Developer
-experience: 2+ years
-live_projects: 10+
-certifications: 3
-tech_focus: [React.js, Next.js, WordPress, WooCommerce, Tailwind CSS]
-currently_learning: [Next.js, Django, MySQL]
-philosophy: "Turning ideas into innovative, user-centric web applications"
-\`\`\`
-
----
-
-### 🛠 Tech Stack
-
-<div align="center">
-
-**Core Technologies**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,wordpress" />
 
-**Backend & Database**
+## 🧭 About
+
+I'm a frontend developer with **2+ years of experience** building fast, responsive, user-focused web applications using **React.js**, **Next.js**, and **WordPress**. I care about clean code, intentional UI, and shipping things that actually solve problems. Currently deepening my skills in **Next.js**, **Django**, and **MySQL**.
+
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,python,mysql,vercel,netlify" />
 
-**Tools & Version Control**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+## 🛠️ Tech Stack
 
-</div>
-
----
-
-### 🚀 Featured Projects
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-**🛍️ LAX Store — E-commerce Web App**
-<br/>
-Tech: `React` `Tailwind CSS` `Vercel`
-<br/>
-Responsive storefront with product catalog, cart & wishlist flow.
-<br/>
-🔗 [Live Demo](https://lax-store.vercel.app/) · [Repo](https://github.com/Guptamanish0990/LaxStore)
+**Frontend**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-**🍔 Street Vada Pav — Food Ordering App**
-<br/>
-Tech: `React` `Netlify`
-<br/>
-Mumbai street-food ordering platform with real-time menu & cart.
-<br/>
-🔗 [Live Demo](https://street-vada-pav.netlify.app/)
+**CMS & Backend**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=wordpress,nodejs,python,mysql" />
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-**🎥 YouTube Clone — Video Streaming App**
-<br/>
-Tech: `Next.js` `Tailwind CSS` `YouTube API`
-<br/>
-YouTube-style app with mobile UI, voice search & live categories.
-<br/>
-🔗 [Live Demo](https://youtube-clone-six-rosy.vercel.app/) · [Repo](https://github.com/Guptamanish0990/youtube-clone)
-
-</td>
-<td width="50%" valign="top">
-
-**🎨 Hair Salon Website (Demo)**
-<br/>
-Tech: `React` `HTML5` `CSS3`
-<br/>
-Front-end recreation of Florian Hurel Hair Couture website.
-<br/>
-🔗 [Live Demo](https://guptamanish0990.github.io/hello-world-app/#/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🧠 ML GUI — College Project**
-<br/>
-Tech: `Django` `React` `Firebase`
-<br/>
-End-to-end ML pipeline builder with a graphical interface.
-<br/>
-🔗 [Live Demo](https://mlgui-e219d.web.app/) · [Repo](https://github.com/Guptamanish0990/ml-gui-project)
-
-</td>
-<td width="50%" valign="top">
-
-**🏢 Business & Corporate Sites (Zencraft)**
-<br/>
-- [Questor Wing](https://questorwing.com/)
-- [Jain & Co Chartered Accountants](https://jainandco.webperfecto.co/)
-- [NsExecutions LLP](http://app-nsexecutionsllp.eln1vtent4-ypj68jvev3l2.p.temp-site.link/)
-- [Dental Doctor Website](http://app-denntaldoctor.u10431mxjg-xlm4180lx3dy.p.temp-site.link/)
+**Tools & Hosting**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vercel,netlify" />
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### 📊 GitHub Analytics
+## 🚀 Featured Projects
 
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Guptamanish0990&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Guptamanish0990&theme=tokyonight&hide_border=true" />
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>🛍️ LAX Store</h3>
+E-commerce web app with product catalog, cart and wishlist flow.
+<br/><br/>
+<code>React</code> <code>Tailwind CSS</code> <code>Vercel</code>
+<br/><br/>
+<a href="https://lax-store.vercel.app/">Live Demo</a> · <a href="https://github.com/Guptamanish0990/LaxStore">Source Code</a>
+</td>
+<td width="50%" valign="top">
+<h3>🎥 YouTube Clone</h3>
+Video streaming platform with mobile UI, voice search and live categories.
+<br/><br/>
+<code>Next.js</code> <code>Tailwind CSS</code> <code>YouTube API</code>
+<br/><br/>
+<a href="https://youtube-clone-six-rosy.vercel.app/">Live Demo</a> · <a href="https://github.com/Guptamanish0990/youtube-clone">Source Code</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🍔 Street Vada Pav</h3>
+Live Mumbai street-food ordering platform with real-time menu and cart.
+<br/><br/>
+<code>React</code> <code>Netlify</code>
+<br/><br/>
+<a href="https://street-vada-pav.netlify.app/">Live Demo</a>
+</td>
+<td width="50%" valign="top">
+<h3>🧠 ML GUI</h3>
+End-to-end machine learning pipeline builder with a graphical interface.
+<br/><br/>
+<code>Django</code> <code>React</code> <code>Firebase</code>
+<br/><br/>
+<a href="https://mlgui-e219d.web.app/">Live Demo</a> · <a href="https://github.com/Guptamanish0990/ml-gui-project">Source Code</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🎨 Hair Salon Website</h3>
+Front-end demo recreation of a hair couture business website.
+<br/><br/>
+<code>React</code> <code>HTML5</code> <code>CSS3</code>
+<br/><br/>
+<a href="https://guptamanish0990.github.io/hello-world-app/#/">Live Demo</a>
+</td>
+<td width="50%" valign="top">
+<h3>🏢 Corporate Websites</h3>
+Business, legal and healthcare websites built for real clients (Zencraft).
+<br/><br/>
+<a href="https://questorwing.com/">Questor Wing</a> · <a href="https://jainandco.webperfecto.co/">Jain & Co</a> · <a href="http://app-nsexecutionsllp.eln1vtent4-ypj68jvev3l2.p.temp-site.link/">NsExecutions LLP</a> · <a href="http://app-denntaldoctor.u10431mxjg-xlm4180lx3dy.p.temp-site.link/">Dental Doctor</a>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guptamanish0990&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="45%" src="https://github-readme-activity-graph.vercel.app/graph?username=Guptamanish0990&theme=tokyo-night&hide_border=true" />
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Guptamanish0990&show_icons=true&theme=default&hide_border=true&title_color=203A43&icon_color=2C5364&text_color=2f2f2f&bg_color=ffffff00&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Guptamanish0990&theme=default&hide_border=true&background=FFFFFF00&ring=2C5364&fire=203A43&currStreakLabel=2C5364" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Guptamanish0990&theme=minimal&hide_border=true&bg_color=ffffff00&color=203A43&line=2C5364&point=0F2027" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guptamanish0990&layout=compact&theme=default&hide_border=true&bg_color=ffffff00&title_color=203A43&text_color=2f2f2f" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Guptamanish0990&theme=flat&no-bg=true&no-frame=true&margin-w=8&row=1&column=6" />
+
+</div>
+
+<br/>
+
+## 🎓 Education
+
+| Year | Degree | Institution |
+|---|---|---|
+| 2021 – 2023 | M.Sc. Information Technology | Patkar-Varde College, Mumbai |
+| 2018 – 2021 | B.Sc. Information Technology | DTSS College of Commerce and Science, Mumbai |
+| 2017 – 2018 | HSC (Science) | DTSS College of Commerce and Science, Mumbai |
+| 2015 – 2016 | SSC | Shree Radha Krishna Vidya Mandir High School, Mumbai |
+
+<br/>
+
+<div align="center">
+
+### 📬 Let's build something together
+
+<a href="mailto:websitedeveloper0990@gmail.com"><img src="https://img.shields.io/badge/Email-websitedeveloper0990@gmail.com-2C5364?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Guptamanish0990&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&row=1&column=6" />
+<img src="https://komarev.com/ghpvc/?username=Guptamanish0990&label=Profile%20Views&color=203A43&style=flat" />
 
-</div>
-
----
-
-### 🎓 Education
-
-| Year | Degree | Institution |
-|------|--------|-------------|
-| 2021 – 2023 | M.Sc. Information Technology | Patkar-Varde College, Mumbai |
-| 2018 – 2021 | B.Sc. Information Technology | DTSS College of Commerce and Science, Mumbai |
-| 2017 – 2018 | HSC (Science) | DTSS College of Commerce and Science, Mumbai, Malad |
-| 2015 – 2016 | SSC | Shree Radha Krishna Vidya Mandir High School, Mumbai |
-
----
-
-### 📫 Let's Connect
-
-<div align="center">
-
-<a href="mailto:websitedeveloper0990@gmail.com">
-  <img src="https://img.shields.io/badge/Email-websitedeveloper0990@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/guptamanish0990">
-  <img src="https://img.shields.io/badge/LinkedIn-Manish%20Gupta-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Guptamanish0990">
-  <img src="https://img.shields.io/badge/GitHub-@Guptamanish0990-%2312100E?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://guptamanish0990.github.io/Manish_Gupta/#/">
-  <img src="https://img.shields.io/badge/Portfolio-Manish%20Gupta-%230096FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-> *"I'm dedicated to turning ideas into innovative web applications, showcasing my expertise in React.js, WordPress, and modern web development."*
-
-⚡ *Passionate about clean code, responsive design, and user-centric solutions*
-
-<img src="https://komarev.com/ghpvc/?username=Guptamanish0990&label=Profile%20Views&color=1BFFFF&style=flat" alt="Profile views" />
-
-⭐️ From [@Guptamanish0990](https://github.com/Guptamanish0990)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>
